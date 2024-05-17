@@ -87,24 +87,24 @@
 	    z-index: 9999;
      }
 
-@media (min-width: 40em) {
-  .modal {
-    max-width: 98%;
-  }
-}
+     @media (min-width: 40em) {
+     .modal {
+	     max-width: 98%;
+     }
+     }
 
-.modal.active {
-  display: block;
-  height: 100%;
-  left: 0;
-  max-height: 100%;
-  overflow: auto;
-  position: fixed;
-  right: 0;
-  top: 0;
-  visibility: visible;
-  -webkit-overflow-scrolling: touch;
-}
+     .modal.active {
+	     display: block;
+	     height: 100%;
+	     left: 0;
+	     max-height: 100%;
+	     overflow: auto;
+	     position: fixed;
+	     right: 0;
+	     top: 0;
+	     visibility: visible;
+	     -webkit-overflow-scrolling: touch;
+      }
 
 @media (min-width: 30em) {
   .modal.active {
