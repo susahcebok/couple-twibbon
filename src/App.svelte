@@ -57,24 +57,24 @@
        <p><button id="click" class="save myth" disabled>Unduh</button></p>
        </div><!-- divide -->
 
-  <div id="intro" style="display:none;">
-    <div id="choose">选择类型...</div>
-    <div id="choice">
-      <div id="choice-full" class="myth">
-        <div>全景</div>
-      </div>
-      <div id="choice-divide" class="myth">
-        <div>分割</div>
-      </div>
-    </div>
-    <div id="return-intro" class="myth">
-      <div>更改类型</div>
-    </div>
-  </div>
+       <div id="intro" style="display:none;">
+       <div id="choose">选择类型...</div>
+       <div id="choice">
+       <div id="choice-full" class="myth">
+       <div>全景</div>
+       </div>
+       <div id="choice-divide" class="myth">
+       <div>分割</div>
+       </div>
+       </div>
+       <div id="return-intro" class="myth">
+       <div>更改类型</div>
+       </div>
+       </div>
 </main>
 
 <footer>
-  <p><a target="_blank" rel="noopener" href="https://github.com/susahcebok/stunning-couscous">Copyright © 2024 Ferry Ayunda.</a></p>
+      <p><a target="_blank" rel="noopener" href="https://github.com/susahcebok/stunning-couscous">Copyright © 2024 Ferry Ayunda.</a></p>
 </footer>
 
 <style>
