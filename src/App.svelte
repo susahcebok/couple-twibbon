@@ -55,7 +55,29 @@
        </div>
 
        <p><button id="click" class="save myth" disabled>Unduh</button></p>
-       </div><!-- divide -->
+       
+       <div class="modal modal-medium" data-modal-window id="modal2">
+       <a  class="close" data-modal-close href="#">x</a>
+       <h3>Tutorial:</h3>
+       <hr>
+       <h2>Upload Your Photo</h2>
+       <p>Start the transformation quickly by uploading a photo of your choice using the <strong>place image file here button or click to upload.</strong></p>
+
+       <h2>Zoom and Filters</h2>
+       <p>Fit your image appropriately in #Palestine frame. Our editor lets you crop and position easily, ensuring your profile picture perfectly reflects your style and message.</p>
+
+       <h2>Download Your Profile Photo</h2>
+       <p>It's time to use your new profile picture! Just press the <strong>Download</strong> button of the photo you created to save it instantly. Share your support for Palestine with your unique profile photo.</p>
+
+       <p>Was this answer useful to you?</p>
+
+       <p>
+       <button data-modal-close>Yes</button> 
+       <button data-modal-close>No</button>
+        </p>
+       </div>
+
+      </div><!-- divide -->
 
        <div id="intro" style="display:none;">
        <div id="choose">选择类型...</div>
