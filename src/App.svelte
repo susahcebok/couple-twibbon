@@ -56,7 +56,7 @@
 
        <p>
        <button id="click" class="save myth" disabled>Download</button>
-       <button data-modal="#modal2">Tutotial?</button>
+       <button data-modal="#modal2">Tutorial?</button>
        </p>
        
        <div class="modal modal-medium" data-modal-window id="modal2">
