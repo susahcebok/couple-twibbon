@@ -18,7 +18,7 @@ full.centerY = SIZE / 2;
 full.draw = function () {
   var ctx = full.ctx;
   ctx.globalAlpha = 1;
-  ctx.fillStyle = 'grey';
+  ctx.fillStyle = 'white';
   ctx.fillRect(0, 0, SIZE, SIZE);
 
   if (full.image && full.image.src) {
