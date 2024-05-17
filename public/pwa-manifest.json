@@ -1,7 +1,7 @@
 {
-    "name": "Simple Web Twibbon",
+    "name": "Couple Web Twibbon",
     "short_name": "Twibbon",
-    "description": "Simple Web Twibbon",
+    "description": "Couple Web Twibbon",
     "icons": [
         {
             "src": "/img/android-chrome-192x192.png",
@@ -27,8 +27,8 @@
             "type": "image/jpeg"
         }
     ],
-    "background_color": "#9195F6",
-    "theme_color": "#9195F6",
+    "background_color": "#FF70AB",
+    "theme_color": "#FF70AB",
     "display": "fullscreen",
     "orientation": "any",
     "start_url": ".",
