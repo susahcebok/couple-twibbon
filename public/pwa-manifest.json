@@ -1,0 +1,39 @@
+{
+    "name": "Simple Web Twibbon",
+    "short_name": "Twibbon",
+    "description": "Simple Web Twibbon",
+    "icons": [
+        {
+            "src": "/img/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "",
+            "sizes": "1000x1600",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "",
+            "sizes": "1000x1600",
+            "type": "image/jpeg"
+        }
+    ],
+    "background_color": "#9195F6",
+    "theme_color": "#9195F6",
+    "display": "fullscreen",
+    "orientation": "any",
+    "start_url": ".",
+    "url": "index.html",
+    "scope": ".",
+    "lang": "en-ID",
+    "dir": "rtl"
+}
