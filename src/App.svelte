@@ -54,7 +54,10 @@
        </div>
        </div>
 
-       <p><button id="click" class="save myth" disabled>Unduh</button></p>
+       <p>
+       <button id="click" class="save myth" disabled>Unduh</button>
+       <button data-modal="#modal2">Tutotial?</button>
+       </p>
        
        <div class="modal modal-medium" data-modal-window id="modal2">
        <a  class="close" data-modal-close href="#">x</a>
