@@ -31,31 +31,31 @@
         </div>
         </div>
 
-<div id='divide'>
+        <div id='divide'>
 	  
-<p></p><canvas></canvas></p>
+       <p><canvas></canvas></p>
 
-<div class="row">
-<div class="column">
-<label class="dropbox" for='divide-left-img'>Photo 1</label>
-<p><input type='file' id='divide-left-img' accept='image/*' hidden></p>
-<label for='divide-left-zoom'>Zoom:</label>
-<p><input type='range' id='divide-left-zoom' min='0' max='2' step='0.01' value='1'></p>
-<label for='divide-left-alpha'>Filter:</label>
-<input type='range' id='divide-left-alpha' min='0' max='1' step='0.01' value='0.5'>
-</div>
-<div class="column">
-<label class="dropbox" for='divide-right-img'>Photo 2</label>
-<p><input type='file' id='divide-right-img' accept='image/*' hidden></p>
-<label for='divide-right-zoom'>Zoom:</label>
-<p><input type='range' id='divide-right-zoom' min='0' max='2' step='0.01' value='1'></p>
-<label for='divide-right-alpha'>Filter:</label>
-<input type='range' id='divide-right-alpha' min='0' max='1' step='0.01' value='0.5'>
-</div>
-</div>
+       <div class="row">
+       <div class="column">
+       <label class="dropbox" for='divide-left-img'>Photo 1</label>
+       <p><input type='file' id='divide-left-img' accept='image/*' hidden></p>
+       <label for='divide-left-zoom'>Zoom:</label>
+       <p><input type='range' id='divide-left-zoom' min='0' max='2' step='0.01' value='1'></p>
+       <label for='divide-left-alpha'>Filter:</label>
+       <input type='range' id='divide-left-alpha' min='0' max='1' step='0.01' value='0.5'>
+       </div>
+       <div class="column">
+       <label class="dropbox" for='divide-right-img'>Photo 2</label>
+       <p><input type='file' id='divide-right-img' accept='image/*' hidden></p>
+       <label for='divide-right-zoom'>Zoom:</label>
+       <p><input type='range' id='divide-right-zoom' min='0' max='2' step='0.01' value='1'></p>
+       <label for='divide-right-alpha'>Filter:</label>
+       <input type='range' id='divide-right-alpha' min='0' max='1' step='0.01' value='0.5'>
+       </div>
+       </div>
 
-<p><button id="click" class="save myth" disabled>Unduh</button></p>
-</div><!-- divide -->
+       <p><button id="click" class="save myth" disabled>Unduh</button></p>
+       </div><!-- divide -->
 
   <div id="intro" style="display:none;">
     <div id="choose">选择类型...</div>
