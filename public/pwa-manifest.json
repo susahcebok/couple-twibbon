@@ -17,13 +17,13 @@
     ],
     "screenshots": [
         {
-            "src": "",
-            "sizes": "1000x1600",
+            "src": "/img/couple-01.png",
+            "sizes": "720x1536",
             "type": "image/jpeg"
         },
         {
-            "src": "",
-            "sizes": "1000x1600",
+            "src": "/img/couple-02.png",
+            "sizes": "720x1536",
             "type": "image/jpeg"
         }
     ],
