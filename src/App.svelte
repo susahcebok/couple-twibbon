@@ -4,27 +4,32 @@
 
 <main>
 	<h1>Couple {name}!</h1>
-    <div id='full' style="display:none;">
-    <div class="canvas-container">
-      <canvas></canvas>
-    </div>
-    <div class="form-group">
-      <input type='file' id='full-img' accept='image/*'>
-    </div>
-    <div class="form-group">
-      <label for='full-zoom'>Zoom:</label>
-      <input type='range' id='full-zoom' min='0' max='1' step='0.01' value='1'>
-    </div>
-    <div class="form-group">
-      <label for='full-alpha'>Filter:</label>
-      <input type='range' id='full-alpha' min='0' max='1' step='0.01' value='0.5'>
-    </div>
-    <div class="form-group">
-      <div class="save myth">
+        <div id='full' style="display:none;">
+        
+        <div class="canvas-container">
+        <canvas></canvas>
+        </div>
+    
+        <div class="form-group">
+        <input type='file' id='full-img' accept='image/*'>
+        </div>
+
+        <div class="form-group">
+        <label for='full-zoom'>Zoom:</label>
+        <input type='range' id='full-zoom' min='0' max='1' step='0.01' value='1'>
+        </div>
+
+        <div class="form-group">
+        <label for='full-alpha'>Filter:</label>
+        <input type='range' id='full-alpha' min='0' max='1' step='0.01' value='0.5'>
+        </div>
+
+        <div class="form-group">
+        <div class="save myth">
         <div>Unduh</div>
-      </div>
-    </div>
-  </div>
+        </div>
+        </div>
+        </div>
 
 <div id='divide'>
 	  
