@@ -17,12 +17,12 @@
     ],
     "screenshots": [
         {
-            "src": "/img/couple-01.png",
+            "src": "/img/couple01.png",
             "sizes": "720x1536",
             "type": "image/jpeg"
         },
         {
-            "src": "/img/couple-02.png",
+            "src": "/img/couple02.png",
             "sizes": "720x1536",
             "type": "image/jpeg"
         }
