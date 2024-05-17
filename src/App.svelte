@@ -55,7 +55,7 @@
        </div>
 
        <p>
-       <button id="click" class="save myth" disabled>Unduh</button>
+       <button id="click" class="save myth" disabled>Download</button>
        <button data-modal="#modal2">Tutotial?</button>
        </p>
        
