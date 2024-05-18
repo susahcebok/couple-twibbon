@@ -97,7 +97,7 @@
        <div>更改类型</div>
        </div>
        </div>
-       <p>Bagikan Twibbon ini ke media sosial Anda: <span><em>Bagikan</em></span>.</p>
+       <p>Bagikan Twibbon ini ke media sosial Anda: <span><em>Bagikan?</em></span>.</p>
        <p class="result"></p>
 </main>
 
