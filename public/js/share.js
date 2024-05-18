@@ -1,7 +1,7 @@
 let shareData = {
-        title: 'MDN',
+        title: 'Couple Twibbon',
         text: 'Learn web development on MDN!',
-        url: 'https://developer.mozilla.org',
+        url: 'https://couples.netlify.app/',
       }
 
       const btn = document.querySelector('button');
