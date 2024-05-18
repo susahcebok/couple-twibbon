@@ -4,6 +4,7 @@
 
 <main>
 	<h1>Couple {name}!</h1>
+        <p>Impress your loved one and all your friends with unique profile pictures, created in just with our easy-to-use web tool.</p>
         <div id='full' style="display:none;">
         
         <div class="canvas-container">
