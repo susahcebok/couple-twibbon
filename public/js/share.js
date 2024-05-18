@@ -13,6 +13,6 @@ let shareData = {
             resultPara.textContent = 'Couple Twibbon shared successfully'
           )
           .catch((e) =>
-            resultPara.textContent = 'Error: '
+            resultPara.textContent = 'Error: Share canceled!'
           )
       });
