@@ -1,10 +1,10 @@
 let shareData = {
         title: 'Couple Twibbon',
-        text: 'Learn web development on MDN!',
+        text: 'Web Generated Couple Pictures',
         url: 'https://couples.netlify.app/',
       }
 
-      const btn = document.querySelector('button');
+      const btn = document.querySelector('span');
       const resultPara = document.querySelector('.result');
 
       btn.addEventListener('click', () => {
