@@ -10,9 +10,9 @@ let shareData = {
       btn.addEventListener('click', () => {
         navigator.share(shareData)
           .then(() =>
-            resultPara.textContent = 'MDN shared successfully'
+            resultPara.textContent = 'Couple Twibbon shared successfully'
           )
           .catch((e) =>
-            resultPara.textContent = 'Error: ' + e
+            resultPara.textContent = 'Error: '
           )
       });
