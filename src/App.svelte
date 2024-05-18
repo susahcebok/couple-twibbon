@@ -116,9 +116,12 @@
        }
 
 	h1 {
-		text-transform: uppercase;
+	    text-transform: uppercase;
 	}
 
+        span {
+            font-weight: bold;
+	}
 	@media (max-width: 700px) {
         main {
             margin: 0 auto;
