@@ -4,7 +4,7 @@ let shareData = {
         url: 'https://couples.netlify.app/',
       }
 
-      const btn = document.querySelector('span');
+      const btn = document.querySelector('em');
       const resultPara = document.querySelector('.result');
 
       btn.addEventListener('click', () => {
