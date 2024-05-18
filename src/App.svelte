@@ -97,7 +97,7 @@
        <div>更改类型</div>
        </div>
        </div>
-       <p>Bagikan Twibbon ini ke media sosial Anda: <span><em>Bagikan?</em></span>.</p>
+       <p>Share this Twibbon on your social media: <span><em>Share?</em></span>.</p>
        <p class="result"></p>
 </main>
 
@@ -119,7 +119,7 @@
 	    text-transform: uppercase;
 	}
 
-        span {
+        em {
             font-weight: bold;
 	}
 	@media (max-width: 700px) {
