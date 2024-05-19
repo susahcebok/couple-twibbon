@@ -1,7 +1,7 @@
 let shareData = {
         title: 'Couple Twibbon',
         text: 'Web Generated Couple Pictures',
-        url: 'https://couples.netlify.app/',
+        url: 'https://sksd.netlify.app/',
       }
 
       const btn = document.querySelector('em');
