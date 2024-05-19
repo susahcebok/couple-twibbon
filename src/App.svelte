@@ -102,7 +102,7 @@
 </main>
 
 <footer>
-      <p><a target="_blank" rel="noopener" href="https://couples.netlify.app/">Copyright © 2024 Ferry Ayunda.</a></p>
+      <p><a target="_blank" rel="noopener" href="https://sksd.netlify.app/">Copyright © 2024 Ferry Ayunda.</a></p>
 </footer>
 
 <style>
